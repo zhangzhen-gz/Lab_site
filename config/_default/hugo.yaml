@@ -1,6 +1,5 @@
-baseURL: "/"
+﻿baseURL: "/"
 title: 刘晶研究组
-enableGitInfo: true
 pagination:
   pagerSize: 10
 
@@ -34,3 +33,4 @@ languages:
   zh:
     languageCode: zh-CN
     weight: 1
+defaultContentLanguage: zh
