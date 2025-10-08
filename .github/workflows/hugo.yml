@@ -1,0 +1,78 @@
+name: Deploy Hugo (Wowchemy) to Pages
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: false
+          fetch-depth: 0
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.127.0'
+          extended: true
+
+      - name: Compute baseURL for GitHub Pages
+        id: baseurl
+        shell: bash
+        run: |
+          REPO="$GITHUB_REPOSITORY"              # owner/name
+          OWNER="${REPO%%/*}"
+          NAME="${REPO#*/}"
+          if [ "$NAME" = "$OWNER.github.io" ]; then
+            echo "BASE_URL=https://$OWNER/" >> $GITHUB_ENV
+          else
+            echo "BASE_URL=https://$OWNER.github.io/$NAME/" >> $GITHUB_ENV
+          fi
+          echo "Resolved BASE_URL=${BASE_URL}"
+
+      - name: Hugo mod tidy
+        run: hugo mod tidy
+
+      - name: Hugo Modules Cache
+        uses: actions/cache@v4
+        with:
+          path: |-
+            ~/.cache/hugo
+            ~/.cache/go-build
+            ~/go/pkg/mod
+          key: ${{ runner.os }}-hugomod-${{ hashFiles('**/hugo.yaml') }}
+          restore-keys: |
+            ${{ runner.os }}-hugomod-
+
+      - name: Build
+        run: hugo --minify --baseURL "${{ env.BASE_URL }}"
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
+
+  deploy:
+    runs-on: ubuntu-latest
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

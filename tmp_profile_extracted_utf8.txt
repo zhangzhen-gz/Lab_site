@@ -1,0 +1,1308 @@
+﻿
+
+
+鍥藉绾т汉鎵?--骞垮窞鐢熺墿鍖昏嵂涓庡仴搴风爺绌堕櫌
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+    .navbar.navbar-default {width: 100%;}
+	.main-navigation .navbar-nav {width: 100%;}
+	.main-navigation .navbar-nav > li {width: 11.3%;}
+    .navbar-default .navbar-nav > li > a {font-size: 18px;padding: 20px 0px;font-weight: 700;text-align: center;}
+	.main-navigation .navbar-right > li:first-child {width: 9.1%;}
+	.main-navigation .navbar-right > li:nth-child(6) {width: 11.8%;}
+	@media (max-width: 1199px) {
+		.navbar-default .navbar-nav > li > a {font-size: 15px;}
+	}
+
+
+	a, a:link {text-decoration: none !important;}
+	.ry-detail .detail-t font, .ry-detail .detail-t p, .ry-detail .detail-t span, .ry-detail .detail-t div {font-family: Arial, \5FAE\8F6F\96C5\9ED1 !important;word-wrap:break-word;font-size: 15px !important;}
+
+
+
+
+   
+  
+  
+      
+  
+  
+  
+  
+  
+    
+      
+      棣? 椤?
+      闄㈠喌浠嬬粛
+        
+        
+          
+          闄㈠喌绠?浠?
+          
+          棰嗗鑷磋緸
+          
+          鐜颁换棰嗗
+          
+          鍘嗕换棰嗗
+          
+          闄㈠姟濮斿憳
+          
+          瀛︽湳濮斿憳浼?
+          
+          瀛︿綅璇勫畾濮斿憳浼?
+          
+          骞存姤
+          
+          澶т簨璁?
+          
+        
+      
+	  鏈烘瀯璁剧疆
+        
+        
+		  
+          鐮旂┒浣撶郴
+            
+            
+				
+				缁嗚優璋辩郴鐮旂┒涓績
+				  
+				  
+					
+				  
+				
+				
+				璋辩郴鎶?鏈笌瑁呭鐮旂┒涓績
+				  
+				  
+					
+				  
+				
+				
+				鏁板瓧鐢熺墿鍖诲鐮旂┒涓績
+				  
+				  
+					
+				  
+				
+				
+				鍙戣偛涓庡啀鐢熷尰瀛︾爺绌舵墍
+				  
+				  
+					
+				  
+				
+				
+				鍖昏嵂鍒涙柊鐮旂┒鎵?
+				  
+				  
+					
+				  
+				
+				
+			  
+          
+		  
+          绠＄悊浣撶郴
+            
+            
+				
+				缁煎悎澶?
+				  
+				  
+					
+				  
+				
+				
+				鍏氱兢宸ヤ綔澶?
+				  
+				  
+					
+				  
+				
+				
+				绉戞妧鍙戝睍澶?
+				  
+				  
+					
+				  
+				
+				
+				鎴愭灉杞寲澶?
+				  
+				  
+					
+				  
+				
+				
+				浜轰簨浜烘墠澶?
+				  
+				  
+					
+				  
+				
+				
+				璧勪骇璐㈠姟澶?
+				  
+				  
+					
+				  
+				
+				
+				鏁欒偛澶?
+				  
+				  
+					
+				  
+				
+				
+			  
+          
+		  
+          鏀拺浣撶郴
+            
+            
+				
+				鍒嗘瀽娴嬭瘯涓績
+				  
+				  
+					
+					鍒嗘瀽娴嬭瘯涓績绠?浠?
+					
+					澶у瀷浠櫒璁惧
+					
+				  
+				
+				
+				瀹為獙鍔ㄧ墿涓績
+				  
+				  
+					
+					瀹為獙鍔ㄧ墿涓績绠?浠?
+					
+					鎶?鏈钩鍙?
+					
+					妯″紡鍔ㄧ墿璧勬簮
+					
+					浠櫒璁惧
+					
+					鑱旂郴鏂瑰紡
+					
+				  
+				
+				
+				鐢熺墿鍖诲鏁版嵁涓庤秴绠椾腑蹇?
+				  
+				  
+					
+				  
+				
+				
+				娌荤枟鎬х粏鑳炲埗澶囩爺绌朵腑蹇?
+				  
+				  
+					
+				  
+				
+				
+				绉诲姩寮忕敓鐗╁畨鍏ㄤ笁绾у疄楠屽锛堢锛?
+				  
+				  
+					
+				  
+				
+				
+				鐗硅壊鏀拺涓績
+				  
+				  
+					
+				  
+				
+				
+			  
+          
+		  
+          閲嶇偣瀹為獙瀹?
+            
+            
+				
+				骞夸笢鐪佸共缁嗚優涓庡啀鐢熷尰瀛﹂噸鐐瑰疄楠屽
+				  
+				  
+					
+				  
+				
+				
+				骞夸笢鐪佺敓鐗╁尰鑽绠楅噸鐐瑰疄楠屽
+				  
+				  
+					
+				  
+				
+				
+				涓浗-鏂拌タ鍏扮敓鐗╁尰鑽笌鍋ュ悍鈥滀竴甯︿竴璺?濊仈鍚堝疄楠屽
+				  
+				  
+					
+				  
+				
+				
+				鍛煎惛鐤剧梾鍏ㄥ浗閲嶇偣瀹為獙瀹わ紙鍏卞缓锛?
+				  
+				  
+					
+				  
+				
+				
+				鍏嶇柅搴旂瓟涓庡厤鐤不鐤楀叏鍥介噸鐐瑰疄楠屽锛堝叡寤猴級
+				  
+				  
+					
+				  
+				
+				
+			  
+          
+		  
+          鍥藉閲嶅ぇ绉戞妧鍩虹璁炬柦
+            
+            
+				
+				浜虹被缁嗚優璋辩郴澶х瀛︾爺绌惰鏂?
+				  
+				  
+					
+				  
+				
+				
+			  
+          
+		  
+        
+      
+	  绉戞妧鎴愭灉
+        
+        
+          
+          绉戠爺杩涘睍
+          
+          姒傚喌
+          
+          璁烘枃
+          
+          鑾峰
+          
+          涓撹憲
+          
+          涓撳埄
+          
+          浠ｈ〃鎬ф垚鏋?
+          
+        
+      
+	  浜烘墠闃熶紞
+        
+        
+          
+          鍥藉绾т汉鎵?
+          
+          鐪侀儴绾т汉鎵?
+          
+          鐮旂┒鍛?
+          
+          鍓爺绌跺憳
+          
+          瀹㈠骇鐮旂┒鍛?
+          
+          楂樼骇鎶?鏈敮鎾戜汉鍛?
+          
+        
+      
+	  鐮旂┒鐢熸暀鑲?
+        
+        
+		  
+          姒傚喌
+            
+            
+			  
+            
+          
+		  
+          瀵煎笀浠嬬粛
+            
+            
+			  
+              鍗氬＋鐢熷甯?
+              
+              纭曞＋鐢熷甯?
+              
+            
+          
+		  
+          鎷涚敓淇℃伅
+            
+            
+			  
+              纭曞＋鎷涚敓
+              
+              鍗氬＋鎷涚敓
+              
+              澶忎护钀?
+              
+              澶у鐢熺鐮斿疄璺佃鍒?
+              
+            
+          
+		  
+          鍩瑰吇绠＄悊
+            
+            
+			  
+              绠＄悊瑙勫畾
+              
+              鍩瑰吇鏂规
+              
+              瀛︿綅鎺堜簣
+              
+            
+          
+		  
+          琛ㄦ牸涓嬭浇
+            
+            
+			  
+            
+          
+		  
+          姣曚笟灏变笟
+            
+            
+			  
+            
+          
+		  
+          缁煎悎鏂伴椈
+            
+            
+			  
+            
+          
+		  
+        
+      
+	  浜ゆ祦鍚堜綔
+        
+        
+          
+          浜ゆ祦鍔ㄦ??
+          
+          鍥藉唴浜ゆ祦绠?浠?
+          
+          鍥介檯浜ゆ祦绠?浠?
+          
+          鎴愭灉杞寲
+          
+        
+      
+	  鍏氬缓鏂囧寲
+        
+        
+		  
+          鍏氬洟寤鸿
+            
+            
+			  
+            
+          
+		  
+          寤夋斂寤鸿
+            
+            
+			  
+            
+          
+		  
+          杩濇硶杩濈邯涓炬姤
+            
+            
+			  
+            
+          
+		  
+          鏂囧寲寤鸿
+            
+            
+			  
+            
+          
+		  
+          寮樻壃绉戝瀹剁簿绁?
+            
+            
+			  
+            
+          
+		  
+          绉戠爺閬撳痉涓庤瘹淇?
+            
+            
+			  
+              鍥藉鏂囦欢
+              
+              涓闄㈡枃浠?
+              
+              璀﹂挓闀块福
+              
+            
+          
+		  
+        
+      
+	  淇℃伅鍏紑
+        
+        
+          
+          淇℃伅鍏紑瑙勫畾
+          
+          淇℃伅鍏紑鎸囧崡
+          
+          淇℃伅鍏紑鐩綍
+          
+          渚濈敵璇峰叕寮?
+          
+          淇℃伅鍏紑骞村害鎶ュ憡
+          
+          淇℃伅鍏紑鑱旂郴鏂瑰紡
+          
+        
+      
+	  鏂伴椈鍔ㄦ??
+        
+        
+          
+          鍥剧墖鏂伴椈
+          
+          缁煎悎鏂伴椈
+          
+          濯掍綋鎶ラ亾
+          
+          璋辩郴璁炬柦
+          
+          绉戝鏅強
+          
+        
+      
+	  閫氱煡閫氬憡
+	  绉戞櫘瑙嗛
+	  浜烘墠鎷涜仒
+    
+  
+
+
+
+	
+  	
+		
+			  
+		
+		
+			
+				  
+					
+						EN
+						
+					
+				  
+				  
+					涓浗绉戝闄?
+                                        缁嗚優璋辩郴璁炬柦
+					閭鐧诲綍
+                    ARP绯荤粺
+                    鍐呯綉
+				  
+			
+			
+                                鍋ュ悍涓浗 路 浣垮懡鎷呭綋
+                                鍔犲揩鎵撻?犲師濮嬪垱鏂扮瓥婧愬湴锛屽姞蹇獊鐮村叧閿牳蹇冩妧鏈紝鍔姏鎶㈠崰绉戞妧鍒堕珮鐐癸紝涓烘妸鎴戝浗寤鸿鎴愪负涓栫晫绉戞妧寮哄浗浣滃嚭鏂扮殑鏇村ぇ鐨勮础鐚??鈥斺?斾範杩戝钩鎬讳功璁板湪鑷翠腑鍥界瀛﹂櫌寤洪櫌70鍛ㄥ勾璐轰俊涓綔鍑虹殑鈥滀袱鍔犲揩涓?鍔姏鈥濋噸瑕佹寚绀鸿姹?
+				闈㈠悜涓栫晫绉戞妧鍓嶆部銆侀潰鍚戠粡娴庝富鎴樺満銆侀潰鍚戝浗瀹堕噸澶ч渶姹傘?侀潰鍚戜汉姘戠敓鍛藉仴搴凤紝鐜囧厛瀹炵幇绉戝鎶?鏈法瓒婂彂灞曪紝鐜囧厛寤烘垚鍥藉鍒涙柊浜烘墠楂樺湴锛岀巼鍏堝缓鎴愬浗瀹堕珮姘村钩绉戞妧鏅哄簱锛岀巼鍏堝缓璁惧浗闄呬竴娴佺鐮旀満鏋勩??鈥斺?斾腑鍥界瀛﹂櫌鍔為櫌鏂归拡
+			
+		
+		
+                        鍋ュ悍涓浗 路 浣垮懡鎷呭綋
+                        鍔犲揩鎵撻?犲師濮嬪垱鏂扮瓥婧愬湴锛屽姞蹇獊鐮村叧閿牳蹇冩妧鏈紝鍔姏鎶㈠崰绉戞妧鍒堕珮鐐癸紝涓烘妸鎴戝浗寤鸿鎴愪负涓栫晫绉戞妧寮哄浗浣滃嚭鏂扮殑鏇村ぇ鐨勮础鐚??鈥斺?斾範杩戝钩鎬讳功璁板湪鑷翠腑鍥界瀛﹂櫌寤洪櫌70鍛ㄥ勾璐轰俊涓綔鍑虹殑鈥滀袱鍔犲揩涓?鍔姏鈥濋噸瑕佹寚绀鸿姹?
+			闈㈠悜涓栫晫绉戞妧鍓嶆部銆侀潰鍚戠粡娴庝富鎴樺満銆侀潰鍚戝浗瀹堕噸澶ч渶姹傘?侀潰鍚戜汉姘戠敓鍛藉仴搴凤紝鐜囧厛瀹炵幇绉戝鎶?鏈法瓒婂彂灞曪紝鐜囧厛寤烘垚鍥藉鍒涙柊浜烘墠楂樺湴锛岀巼鍏堝缓鎴愬浗瀹堕珮姘村钩绉戞妧鏅哄簱锛岀巼鍏堝缓璁惧浗闄呬竴娴佺鐮旀満鏋勩??鈥斺?斾腑鍥界瀛﹂櫌鍔為櫌鏂归拡
+		
+	
+
+ 
+ 
+	
+	
+	  
+		
+			
+				
+				  
+					  
+					  
+						
+						  棣? 椤? 
+						  
+						  闄㈠喌浠嬬粛
+							
+							  
+								
+									
+									
+										
+										  闄㈠喌绠?浠?
+										
+										
+										  
+										  
+										  涓浗绉戝闄㈠箍宸炵敓鐗╁尰鑽笌鍋ュ悍鐮旂┒闄紙绠?绉扳?滃箍宸炲仴搴烽櫌鈥濓級浜?2003骞?7鏈堢敱涓浗绉戝闄€?佸箍涓滅渷浜烘皯鏀垮簻銆佸箍宸炲競浜烘皯鏀垮簻涓夋柟绛剧害鍏卞缓锛屼簬2006骞?3鏈堣幏寰椾腑缂栧姙鎵瑰姝ｅ紡鎴愮珛銆?
+
+骞垮窞鍋ュ悍闄㈢殑瀹氫綅鏄細闈㈠悜浜烘皯鍋ュ悍锛岃仛鐒︾敓鍛藉仴搴烽鍩熷墠娌块噸澶х瀛﹂棶棰樺拰閲嶈鐤剧梾鏈虹悊锛屼互寤烘垚鍥介檯涓?娴佺殑鐢熺墿鍖昏嵂涓庡仴搴烽鍩熸柊鍨嬬爺鍙戞満鏋勫拰鍒涙柊浜烘墠鍩瑰吇楂樺湴涓虹洰鏍囷紝鎻愪緵淇濋殰浜虹被鍋ュ悍鍜岀柧鐥呴槻鎺х殑鍘熷垱鎬у熀纭?鐞嗚銆佺獊鐮存?у墠娌挎妧鏈笌绯荤粺鎬цВ鍐虫柟妗堜负浣垮懡锛屼紭鍖栫鎶?鎴愭灉蹇?熻浆鍖栫殑鏈哄埗涓庨?斿緞锛屾弧瓒冲浗瀹舵垬鐣ラ渶姹傚拰鍖哄煙缁忔祹绀句細鍙戝睍锛屼績杩涚敓鐗╁尰鑽骇涓氬彂灞曪紝鍙戞尌鍥藉鎴樼暐绉戞妧鍔涢噺鐨勬牳蹇冧綔鐢ㄣ??
+											
+										  鏇村 >>
+										
+									
+									
+										
+										  鐜颁换棰嗗
+										
+										
+											
+												
+												瀛欓鍓櫌闀匡紙涓绘寔宸ヤ綔锛?
+												
+												
+												寮犻缚缈?鍏氬涔﹁銆佸壇闄㈤暱
+												
+												寰愭捣鍏氬鍓功璁般?佺邯濮斾功璁?
+												
+												钄￠檲宕?鍓櫌闀?
+												
+											
+										
+										
+											
+												棰嗗鑷磋緸
+												
+												鍘嗕换棰嗗
+												
+												闄㈠姟濮斿憳
+												
+												瀛︽湳濮斿憳浼?
+												
+												瀛︿綅璇勫畾濮斿憳浼?
+												
+												骞存姤
+												
+												澶т簨璁?
+												
+											
+										
+									
+									
+								
+							  
+							
+						  
+						  
+						  
+						  鏈烘瀯璁剧疆
+							
+							  
+								   -->
+								  
+										
+											
+											鐮旂┒浣撶郴
+												
+													
+													缁嗚優璋辩郴鐮旂┒涓績
+													
+													璋辩郴鎶?鏈笌瑁呭鐮旂┒涓績
+													
+													鏁板瓧鐢熺墿鍖诲鐮旂┒涓績
+													
+													鍙戣偛涓庡啀鐢熷尰瀛︾爺绌舵墍
+													
+													鍖昏嵂鍒涙柊鐮旂┒鎵?
+													
+												
+											
+											
+											绠＄悊浣撶郴
+												
+													
+													缁煎悎澶?
+													
+													鍏氱兢宸ヤ綔澶?
+													
+													绉戞妧鍙戝睍澶?
+													
+													鎴愭灉杞寲澶?
+													
+													浜轰簨浜烘墠澶?
+													
+													璧勪骇璐㈠姟澶?
+													
+													鏁欒偛澶?
+													
+												
+											
+											
+											鏀拺浣撶郴
+												
+													
+													鍒嗘瀽娴嬭瘯涓績
+													
+													瀹為獙鍔ㄧ墿涓績
+													
+													鐢熺墿鍖诲鏁版嵁涓庤秴绠椾腑蹇?
+													
+													娌荤枟鎬х粏鑳炲埗澶囩爺绌朵腑蹇?
+													
+													绉诲姩寮忕敓鐗╁畨鍏ㄤ笁绾у疄楠屽锛堢锛?
+													
+													鐗硅壊鏀拺涓績
+													
+												
+											
+											
+											閲嶇偣瀹為獙瀹?
+												
+													
+													骞夸笢鐪佸共缁嗚優涓庡啀鐢熷尰瀛﹂噸鐐瑰疄楠屽
+													
+													骞夸笢鐪佺敓鐗╁尰鑽绠楅噸鐐瑰疄楠屽
+													
+													涓浗-鏂拌タ鍏扮敓鐗╁尰鑽笌鍋ュ悍鈥滀竴甯︿竴璺?濊仈鍚堝疄楠屽
+													
+													鍛煎惛鐤剧梾鍏ㄥ浗閲嶇偣瀹為獙瀹わ紙鍏卞缓锛?
+													
+													鍏嶇柅搴旂瓟涓庡厤鐤不鐤楀叏鍥介噸鐐瑰疄楠屽锛堝叡寤猴級
+													
+												
+											
+											
+											鍥藉閲嶅ぇ绉戞妧鍩虹璁炬柦
+												
+													
+													浜虹被缁嗚優璋辩郴澶х瀛︾爺绌惰鏂?
+													
+												
+											
+											
+										  
+								  
+							  
+							
+						  
+						  
+						  
+						  绉戞妧鎴愭灉
+							
+							  
+								  
+								  
+										
+											
+											绉戠爺杩涘睍
+											
+											姒傚喌
+											
+											璁烘枃
+											
+											鑾峰
+											
+											涓撹憲
+											
+											涓撳埄
+											
+											浠ｈ〃鎬ф垚鏋?
+											
+										  
+								  
+							  
+							
+						  
+						  
+						  
+						  浜烘墠闃熶紞
+							
+							  
+								  
+								  
+										
+											
+												鍥藉绾т汉鎵?
+											
+												鐪侀儴绾т汉鎵?
+											
+												鐮旂┒鍛?
+											
+												鍓爺绌跺憳
+											
+												瀹㈠骇鐮旂┒鍛?
+											
+												楂樼骇鎶?鏈敮鎾戜汉鍛?
+											
+										  
+								  
+							  
+							
+						  
+						  
+						  
+						  鐮旂┒鐢熸暀鑲?
+							
+							  
+								  
+								  
+										
+											
+												姒傚喌
+													
+														
+													
+												
+											
+												瀵煎笀浠嬬粛
+													
+														
+														鍗氬＋鐢熷甯?
+														
+														纭曞＋鐢熷甯?
+														
+													
+												
+											
+												鎷涚敓淇℃伅
+													
+														
+														纭曞＋鎷涚敓
+														
+														鍗氬＋鎷涚敓
+														
+														澶忎护钀?
+														
+														澶у鐢熺鐮斿疄璺佃鍒?
+														
+													
+												
+											
+												鍩瑰吇绠＄悊
+													
+														
+														绠＄悊瑙勫畾
+														
+														鍩瑰吇鏂规
+														
+														瀛︿綅鎺堜簣
+														
+													
+												
+											
+												琛ㄦ牸涓嬭浇
+													
+														
+													
+												
+											
+												姣曚笟灏变笟
+													
+														
+													
+												
+											
+												缁煎悎鏂伴椈
+													
+														
+													
+												
+											
+										  
+								  
+							  
+							
+						  
+						  
+						  
+						  浜ゆ祦鍚堜綔
+							
+							  
+								  
+								  
+										
+											
+												浜ゆ祦鍔ㄦ??
+											
+												鍥藉唴浜ゆ祦绠?浠?
+											
+												鍥介檯浜ゆ祦绠?浠?
+											
+												鎴愭灉杞寲
+											
+										  
+								  
+							  
+							
+						  
+						  
+						  
+						  鍏氬缓鏂囧寲
+							
+							  
+								  
+								  
+										
+											
+												鍏氬洟寤鸿
+											
+												寤夋斂寤鸿
+											
+												杩濇硶杩濈邯涓炬姤
+											
+												鏂囧寲寤鸿
+											
+												寮樻壃绉戝瀹剁簿绁?
+											
+												绉戠爺閬撳痉涓庤瘹淇?
+											
+										  
+								  
+							  
+							
+						  
+						   
+						  
+						  淇℃伅鍏紑
+							
+							  
+								  
+								  
+										
+											
+												淇℃伅鍏紑瑙勫畾
+											
+												淇℃伅鍏紑鎸囧崡
+											
+												淇℃伅鍏紑鐩綍
+											
+												渚濈敵璇峰叕寮?
+											
+												淇℃伅鍏紑骞村害鎶ュ憡
+											
+												淇℃伅鍏紑鑱旂郴鏂瑰紡
+											
+										  
+								  
+							  
+							
+						  
+						  
+						
+					  
+				  
+				
+			
+		
+	  
+	
+	
+	
+	  
+		
+		  
+			
+			  
+				  
+				  
+					 Toggle navigation    
+				  
+				  
+				  
+					
+					  棣? 椤?
+					  
+					  闄㈠喌浠嬬粛
+						
+						  
+						  闄㈠喌绠?浠?
+						  
+						  棰嗗鑷磋緸
+						  
+						  鐜颁换棰嗗
+						  
+						  鍘嗕换棰嗗
+						  
+						  闄㈠姟濮斿憳
+						  
+						  瀛︽湳濮斿憳浼?
+						  
+						  瀛︿綅璇勫畾濮斿憳浼?
+						  
+						  骞存姤
+						  
+						  澶т簨璁?
+						  
+						
+					  
+					  鏈烘瀯璁剧疆
+						
+						  
+						  鐮旂┒浣撶郴
+						  
+						  绠＄悊浣撶郴
+						  
+						  鏀拺浣撶郴
+						  
+						  閲嶇偣瀹為獙瀹?
+						  
+						  鍥藉閲嶅ぇ绉戞妧鍩虹璁炬柦
+						  
+						
+					  
+					  绉戞妧鎴愭灉
+						
+						  
+						  绉戠爺杩涘睍
+						  
+						  姒傚喌
+						  
+						  璁烘枃
+						  
+						  鑾峰
+						  
+						  涓撹憲
+						  
+						  涓撳埄
+						  
+						  浠ｈ〃鎬ф垚鏋?
+						  
+						
+					  
+					  浜烘墠闃熶紞
+						
+						  
+						  鍥藉绾т汉鎵?
+						  
+						  鐪侀儴绾т汉鎵?
+						  
+						  鐮旂┒鍛?
+						  
+						  鍓爺绌跺憳
+						  
+						  瀹㈠骇鐮旂┒鍛?
+						  
+						  楂樼骇鎶?鏈敮鎾戜汉鍛?
+						  
+						
+					  
+					  鐮旂┒鐢熸暀鑲?
+						
+						  
+						  姒傚喌
+						  
+						  瀵煎笀浠嬬粛
+						  
+						  鎷涚敓淇℃伅
+						  
+						  鍩瑰吇绠＄悊
+						  
+						  琛ㄦ牸涓嬭浇
+						  
+						  姣曚笟灏变笟
+						  
+						  缁煎悎鏂伴椈
+						  
+						
+					  
+					  
+						
+						  
+						
+					  
+					  鍏氬缓鏂囧寲
+						
+						  
+						  鍏氬洟寤鸿
+						  
+						  寤夋斂寤鸿
+						  
+						  杩濇硶杩濈邯涓炬姤
+						  
+						  鏂囧寲寤鸿
+						  
+						  寮樻壃绉戝瀹剁簿绁?
+						  
+						  绉戠爺閬撳痉涓庤瘹淇?
+						  
+						
+					  
+					  淇℃伅鍏紑
+						
+						  
+						  淇℃伅鍏紑瑙勫畾
+						  
+						  淇℃伅鍏紑鎸囧崡
+						  
+						  淇℃伅鍏紑鐩綍
+						  
+						  渚濈敵璇峰叕寮?
+						  
+						  淇℃伅鍏紑骞村害鎶ュ憡
+						  
+						  淇℃伅鍏紑鑱旂郴鏂瑰紡
+						  
+						
+					  
+					
+				  
+			  
+			
+		  
+		
+	  
+	
+
+
+	
+		
+			
+				
+					
+	浜烘墠闃熶紞
+	
+		
+		鍥藉绾т汉鎵?
+		
+		鐪侀儴绾т汉鎵?
+		
+		鐮旂┒鍛?
+		
+		鍓爺绌跺憳
+		
+		瀹㈠骇鐮旂┒鍛?
+		
+		楂樼骇鎶?鏈敮鎾戜汉鍛?
+		
+	
+
+
+var currentChannel = "鍥藉绾т汉鎵?";
+var menuTitle = document.querySelectorAll('.a-title');
+
+[].forEach.call(menuTitle,function(item) {
+	item.classList.remove('active');
+	var curtxt = item.innerText.trim();
+	if(currentChannel == curtxt){
+		item.parentNode.classList.add('active') // 褰撳墠鑺傜偣
+	   //  item.classList.add('active')
+	}
+})
+
+				
+
+				
+					
+						
+							鍥藉绾т汉鎵?
+							
+								
+									
+    褰撳墠浣嶇疆锛?棣栭〉浜烘墠闃熶紞鍥藉绾т汉鎵?
+
+								
+							
+						
+						
+						
+                            
+                                
+                                    
+                                        
+                                            
+                                        
+                                        
+                                            
+                                                鍒樻櫠
+                                                鐢?
+                                            
+                                            
+                                                
+                                                    
+                                                        鑱屻??銆?绉帮細
+                                                        鐮旂┒鍛?
+                                                    
+                                                
+												
+												
+                                                    
+                                                        瀛︺??銆?鍘嗭細
+                                                        鍗氬＋
+                                                    
+                                                
+												
+                                                
+                                                    
+                                                        鐢点??銆?璇濓細
+                                                        
+                                                    
+                                                
+												
+												
+                                                    
+                                                        浼犮??銆?鐪燂細
+                                                        
+                                                    
+                                                
+
+                                                
+                                                    
+                                                        鐢靛瓙閭欢锛?
+                                                        liu_jing@gibh.ac.cn
+                                                    
+                                                
+
+                                                
+                                                    
+                                                        閫氳鍦板潃锛? 
+                                                        骞垮窞甯傜瀛﹀煄寮?婧愬ぇ閬?190鍙?
+                                                    
+                                                
+                                            
+                                        
+                                    
+									
+                                        绠?銆?銆?鍘?
+                                        .TRS_Editor P{line-height:1;font-family:瀹嬩綋;font-size:12pt;}.TRS_Editor DIV{line-height:1;font-family:瀹嬩綋;font-size:12pt;}.TRS_Editor TD{line-height:1;font-family:瀹嬩綋;font-size:12pt;}.TRS_Editor TH{line-height:1;font-family:瀹嬩綋;font-size:12pt;}.TRS_Editor SPAN{line-height:1;font-family:瀹嬩綋;font-size:12pt;}.TRS_Editor FONT{line-height:1;font-family:瀹嬩綋;font-size:12pt;}.TRS_Editor UL{line-height:1;font-family:瀹嬩綋;font-size:12pt;}.TRS_Editor LI{line-height:1;font-family:瀹嬩綋;font-size:12pt;}.TRS_Editor A{line-height:1;font-family:瀹嬩綋;font-size:12pt;}涓浗绉戝闄㈠箍宸炵敓鐗╁尰鑽笌鍋ュ悍鐮旂┒闄㈢爺绌跺憳/鍗氬＋鐢熷甯堛??绉戠爺涓庡鏈伐浣滅粡鍘?2018-鑷充粖鈥傗?備腑鍥界瀛﹂櫌骞垮窞鐢熺墿鍖昏嵂涓庡仴搴风爺绌堕櫌 鐮旂┒鍛?/鍗氬＋鐢熷甯?2013-2017 鈥備腑鍥界瀛﹂櫌骞垮窞鐢熺墿鍖昏嵂涓庡仴搴风爺绌堕櫌 鍓爺绌跺憳2012-2013 鈥備腑鍥界瀛﹂櫌骞垮窞鐢熺墿鍖昏嵂涓庡仴搴风爺绌堕櫌 鍔╃悊鐮旂┒鍛?鏁欒偛缁忓巻锛堟椂闂村?掑簭锛?2007-2012 涓浗绉戝闄㈠箍宸炵敓鐗╁尰鑽笌鍋ュ悍鐮旂┒闄紝鐢熷寲鍜屽垎瀛愮敓鐗╁锛屽崥澹?2003-2007 婀栧寳澶у锛? 鐢熷懡绉戝瀛﹂櫌锛? 鐢熺墿绉戝锛屽澹?
+                                    
+									
+                                        鐮旂┒棰嗗煙
+                                        鈥備綋缁嗚優閲嶇紪绋嬶紱澶氳兘鎬у拰鍏ㄨ兘鎬э紱鏃╂湡鑳氳儙鍙戣偛锛涘紓绉嶅祵鍚堬紱鐢熺墿杩涘寲锛涙暟瀛﹀缓妯°??鈥備富瑕佺爺绌舵柟鍚戯細锛?1锛?iPSC锛堣瀵煎鑳藉共缁嗚優锛夈??PNT锛堝共缁嗚優濮嬪彂鎬?-鍩烘?佽浆鍙橈級绛夌粏鑳炲懡杩愯浆鍙樻ā鍨嬶紱锛?2锛夌敓娈栬捣婧愪笌鍙戣偛锛?锛?3锛変汉绫荤柧鐥呯殑鍔ㄧ墿寤烘ā锛? 锛?4锛夊摵涔冲姩鐗╁紓绉嶅祵鍚堢殑鍒嗗瓙銆佺粏鑳炲拰鍙戣偛鍩虹锛?锛?5锛夌粏鑳炲懡杩愯浆鍙樼殑澶氱淮鏁版嵁鍒嗘瀽涓庢暟瀛﹀缓妯°??鈥?鈥備富瑕佸鏈础鐚寘鎷細鈥?1锛夊彂鐜?cJun/AP1鏄綋缁嗚優閲嶇紪绋嬬殑闅滅(Nature Cell Biology,2015; Cell Stem Cell,2017锛?Cell Mol Life Sci, 2021; Nature 鈥侰ommunications, 2022)銆?2锛夊缓绔嬩簡涓?绯诲垪杞綍鍥犲瓙鎴栧寲鍚堢墿璇卞澶氳兘骞茬粏鑳炴妧鏈綋绯?(Cell Stem Cell, 2018; Cell 鈥傗?傗?俁eports, 鈥?2019; Cell Bioscience , 2024锛?Nature Communications,2024) 銆?3锛夊缓绔嬩簡鏂板瀷灏忛紶澶氳兘骞茬粏鑳?Primed-Na茂ve杞彉浣撶郴锛?Nature Cell Biology,2020; Nature Communications,2022锛夈??4锛夊缓绔嬩簡澶х唺鐚拰璞氶紶鐨勫鑳藉共缁嗚優绯伙紙Science Advance,2024; Stem Cell Reports,2024锛夈?備互锛堝叡锛夌涓?鎴栵紙鍏憋級閫氳浣滆?呭彂琛ㄦ枃绔?23绡囥?傜敵璇峰彂鏄庝笓鍒?14椤广??
+                                    
+									
+                                        鎵挎媴绉戠爺椤圭洰鎯呭喌
+                                        骞垮窞甯傜鎶?璁″垝绉戞妧鑿佽嫳鈥?棰嗚埅鈥?椤圭洰锛?2025骞达級锛岄」鐩礋璐ｄ汉銆?鍥藉閲嶇偣鐮斿彂璁″垝椤圭洰锛?2024骞达級锛岃棰樿礋璐ｄ汉銆?鍥藉鑷劧绉戝鍩洪噾闈笂椤圭洰锛?2024骞达級锛岄」鐩礋璐ｄ汉銆?鍥藉浼樼闈掑勾绉戝鍩洪噾椤圭洰锛?2020骞达級锛岄」鐩礋璐ｄ汉銆?鍥藉鑷劧绉戝鍩洪噾闈笂椤圭洰锛?2020骞达級锛岄」鐩礋璐ｄ汉銆?鍥藉閲嶇偣鐮斿彂璁″垝椤圭洰锛?2019骞达級锛岄」鐩礋璐ｄ汉銆?鍥藉闈掑勾绉戝鍩洪噾椤圭洰锛?2015骞达級锛岄」鐩礋璐ｄ汉銆?
+                                    
+									
+                                        绀句細浠昏亴
+                                        
+                                    
+									
+                                        鑾峰鍙婅崳瑾?
+                                        骞垮窞甯傞珮灞傛浜烘墠鈥?鏉板嚭涓撳鈥?锛?2022骞达級鍥藉鑷劧绉戝鍩洪噾浼樼闈掑勾锛?2020骞达級鍥藉閲嶇偣鐮斿彂璁″垝棣栧腑绉戝瀹讹紙2019骞达級涓浗鏂伴攼绉戞妧浜虹墿锛?2018骞达級涓浗绉戝闄㈡澃鍑虹鎶?鎴愬氨濂栵紙2017骞达紝涓昏瀹屾垚鑰咃級涓浗绉戝闄㈠箍宸炲垎闄紭绉?闈掑勾绉戞妧宸ヤ綔鑰咃紙2016骞达級骞夸笢鐪佺瀛︽妧鏈竴绛夊锛?2015骞达級骞垮窞甯傜瀛︽妧鏈竴绛夊锛?2015骞达級骞垮窞甯傜彔姹熺鎶?鏂版槦锛?2014骞达級
+                                    
+									
+                                        浠ｈ〃璁鸿憲
+                                        浠ｈ〃鎬ц钁?锛堜竴浣滃強閫氳浣滆?咃級鈥?1.鈥傗?傗?傗?? Guo, J., R. Lin, J. Liu, R. Liu, S. Chen, Z. Zhang, Y. Yang, H. Wang, L. Wang, S. Yu, C. Zhou, L. Xiao, R. Luo, J. Yu, L. Zeng, X. Zhang, Y. Li, H. Wu, T. Wang, Y. Li, M. Kumar*, P. Zhu* and J. Liu* (2025). "Capture primed pluripotency in guinea pig." Stem Cell Reports 20(2):102388.2.鈥傗?傗?傗?? Xiao, L., Z. Huang, Z. Wu, Y. Yang, Z. Zhang, M. Kumar, H. Wu, H. Mao, L. Lin, R. Lin, J. Long, L. Zeng, J. Guo, R. Luo, Y. Li, P. Zhu, B. Liao*, L. Wang* and J. Liu* (2024). "Reconstitution of pluripotency from mouse fibroblast through Sall4 overexpression." Nat Commun 15(1):10787.3.鈥傗?傗?傗?? Liu, Y., S. Zhang, G. Zou, J.An, Y.Li, D.Li, D.Lin, D.Wang, Y.Li, J.Chen, T.Feng, H.Li, Y.Chen, M.Zhang, M.Kumar, L.Wang*, R.Hou* and J. Liu* (2024). "Generation and characterization of giant panda induced pluripotent stem cells". Sci Adv 10(38):eadn7724.4.鈥傗?傗?傗?? Guan, T., J. Guo, R. Lin, J. Liu, R. Luo, Z. Zhang*, D. Pei* and J. Liu* (2024). "Single-cell analysis of preimplantation embryonic development in guinea pigs." BMC Genomics 25(1): 911.5.鈥傗?傗?傗?? Li, C., X. Xu, S. Chen, A. Xu, T. Guan, H. Wu*, D. Pei* and J. Liu* (2024). "Epigenetic reshaping through damage: promoting cell fate transition by BrdU and IdU incorporation." Cell Biosci 14(1): 9.6.鈥傗?傗?傗?? Lin, R., Z. Zhai, J. Kuang, C. Wu, Y. Yao, R. Shi, J. He, S. Xu, P. Li, Y. Fan, W. Li, Z. Wu, X. Li, J. Ming, J. Guo, B. Wang, D. Li, S. Cao, X. Zhang, Y. Li, D. Pei* and J. Liu* (2022). "H3K27ac mediated SS18/BAFs relocation regulates JUN induced pluripotent-somatic transition." Cell Biosci 12(1): 89.7.鈥傗?傗?傗?? Wu, H., C. Li, M. Masood, Z. Zhang, E. Gonzalez-Almela, A. Castells-Garcia, G. Zou, X. Xu, L. Wang, G. Zhao, S. Yu, P. Zhu, B. Wang, D. Qin* and J. Liu* (2022). "Static Magnetic Fields Regulate T-Type Calcium Ion Channels and Mediate Mesenchymal Stem Cells Proliferation." Cells 11(15):2460.8.鈥傗?傗?傗?? Yu, S., C. Zhou, J. He, Z. Yao, X. Huang, B. Rong, H. Zhu, S. Wang, S. Chen, X. Wang, B. Cai, G. Zhao, Y. Chen, L. Xiao, H. Liu, Y. Qin, J. Guo, H. Wu, Z. Zhang, M. Zhang, X. Zhao, F. Lan, Y. Wang, J. Chen, S. Cao*, D. Pei* and J. Liu* (2022). "BMP4 drives primed to naive transition through PGC-like state." Nat Commun 13(1): 2756.9.鈥傗?傗?傗?? Kuang, J., Z. Zhai, P. Li, R. Shi, W. Guo, Y. Yao, J. Guo, G. Zhao, J. He, S. Xu, C. Wu, S. Yu, C. Zhou, L. Wu, Y. Qin, B. Cai, W. Li, Z. Wu, X. Li, S. Chu, T. Yang, B. Wang, S. Cao, D. Li, X. Zhang, J. Chen, J. Liu* and D. Pei* (2021). "SS18 regulates pluripotent-somatic transition through phase separation." Nat Commun 12(1): 4090.10.鈥? Liu, Y., J. He, R. Chen, H. Liu, J. Chen, Y. Liu, B. Wang, L. Guo, D. Pei, J. Wang, J. Liu* and J. Chen* (2021). "AP-1 activity is a major barrier of human somatic cell reprogramming." Cell Mol Life Sci. 78(15):5847-5863.11.鈥? Fu, M., H. Chen, Z. Cai, Y. Yang, Z. Feng, M. Zeng, L. Chen, Y. Qin, B. Cai, P. Zhu, C. Zhou, S. Yu, J. Guo, J. Liu*, S. Cao* and D. Pei* (2021). "Forkhead box family transcription factors as versatile regulators for cellular reprogramming to pluripotency." Cell Regen 10(1): 17.12.鈥? Wu, L., G. Zhao, S. Xu, J. Kuang, J. Min, G. Wu, T. Wang, B. Wang, P. Zhu, D. Pei* and J. Liu* (2020). "The nuclear factor CECR2 promotes somatic cell reprogramming by reorganizing the chromatin structure." J Biol Chem 296:100022.13.鈥? Yu, S., C. Zhou, S. Cao, J. He, B. Cai, K. Wu, Y. Qin, X. Huang, L. Xiao, J. Ye, S. Xu, W. Xie, J. Kuang, S. Chu, J. Guo, H. Liu, W. Pang, L. Guo, M. Zeng, X. Wang, R. Luo, C. Li, G. Zhao, B. Wang, L. Wu, J. Chen, J. Liu* and D. Pei* (2020). "BMP4 resets mouse epiblast stem cells to naive pluripotency through ZBTB7A/B-mediated chromatin remodelling." Nat Cell Biol 22(6): 651-662.14.鈥? Wang, B., L. Wu, D. Li, Y. Liu, J. Guo, C. Li, Y. Yao, Y. Wang, G. Zhao, X. Wang, M. Fu, H. Liu, S. Cao, C. Wu, S. Yu, C. Zhou, Y. Qin, J. Kuang, J. Ming, S. Chu, X. Yang, P. Zhu, G. Pan, J. Chen, J. Liu* and D. Pei* (2019). "Induction of Pluripotent Stem Cells from Mouse Embryonic Fibroblasts by Jdp2-Jhdm1b-Mkk6-Glis1-Nanog-Essrb-Sall4." Cell Rep 27(12): 3473-3485.15.鈥? Cao, S., S. Yu, D. Li, J. Ye, X. Yang, C. Li, X. Wang, Y. Mai, Y. Qin, J. Wu, J. He, C. Zhou, H. Liu, B. Zhao, X. Shu, C. Wu, R. Chen, W. Chan, G. Pan, J. Chen, J. Liu* and D. Pei* (2018). "Chromatin Accessibility Dynamics during Chemical Induction of Pluripotency." Cell Stem Cell 22(4): 529-542 .16.鈥? Wang, B., D. Li, J. Chen, J. Liu* and D. Pei* (2018). "Mouse embryonic stem cells resist c-Jun induced differentiation when in suspension." Cell Regen 7(1): 16-21.17.鈥? Li, D., J. Liu, X. Yang, C. Zhou, J. Guo, C. Wu, Y. Qin, L. Guo, J. He, S. Yu, H. Liu, X. Wang, F. Wu, J. Kuang, A. P. Hutchins*, J. Chen* and D. Pei* (2017). "Chromatin Accessibility Dynamics during iPSC Reprogramming." Cell Stem Cell 21(6): 819-833.18.鈥? Cao, S., S. Yu, Y. Chen, X. Wang, C. Zhou, Y. Liu, J. Kuang, H. Liu, D. Li, J. Ye, Y. Qin, S. Chu, L. Wu, L. Guo, Y. Li, X. Shu, J. Chen, J. Liu* and D. Pei* (2017). "Chemical reprogramming of mouse embryonic and adult fibroblast into endoderm lineage." J Biol Chem 292(46): 19122-19132.19.鈥? Liu, J., Q. Han, T. Peng, M. Peng, B. Wei, D. Li, X. Wang, S. Yu, J. Yang, S. Cao, K. Huang, A. P. Hutchins, H. Liu, J. Kuang, Z. Zhou, J. Chen, H. Wu, L. Guo, Y. Chen, Y. Chen, X. Li, H. Wu, B. Liao, W. He, H. Song, H. Yao, G. Pan, J. Chen* and D. Pei* (2015). "The oncogene c-Jun impedes somatic cell reprogramming." Nat Cell Biol 17(7): 856-867.20.鈥? Ouyang, J., W. Yu, J. Liu, N. Zhang, L. Florens, J. Chen, H. Liu, M. Washburn, D. Pei and T. Xie (2015). "Cyclin-dependent kinase-mediated Sox2 phosphorylation enhances the ability of Sox2 to establish the pluripotent state." J Biol Chem 290(37): 22782-22794.21.鈥? Chen, J., J. Liu, Y. Chen, J. Yang, J. Chen, H. Liu, X. Zhao, K. Mo, H. Song, L. Guo, S. Chu, D. Wang, K. Ding and D. Pei (2011). "Rational optimization of reprogramming culture conditions for the generation of induced pluripotent stem cells with ultra-high efficiency and fast kinetics." Cell Res 21(6): 884-894.22.鈥? Chen, J., J. Liu, J. Yang, Y. Chen, J. Chen, S. Ni, H. Song, L. Zeng, K. Ding and D. Pei (2011). "BMPs functionally replace Klf4 and support efficient reprogramming of mouse fibroblasts by Oct4 alone." Cell Res 21(1): 205-212.23.鈥? Chen, J., J. Liu, Q. Han, D. Qin, J. Xu, Y. Chen, J. Yang, H. Song, D. Yang, M. Peng, W. He, R. Li, H. Wang, Y. Gan, K. Ding, L. Zeng, L. Lai, M. A. Esteban and D. Pei (2010). "Towards an optimized culture medium for the generation of mouse induced pluripotent stem cells." J Biol Chem 285(40): 31066-31072.鈥?涓撳埄1.鈥傗?傗?傗?? 绋冲畾浼犱唬鐨勮睔榧犲鑳藉共缁嗚優鍙婂叾鍒跺鏂规硶锛岀敵璇峰彿锛?2024119734513锛岀敵璇锋棩锛?2024.12.30锛岀敵璇凤紙涓撳埄鏉冿級浜猴細涓浗绉戝闄㈠箍宸炵敓鐗╁尰鑽笌鍋ュ悍鐮旂┒闄紱鍙戞槑浜猴細鍒樻櫠銆侀儹濠с?佺綏钃夎嫻銆佹灄娑﹂湠锛?2.鈥傗?傗?傗?? 璇卞浣撶粏鑳為噸缂栫▼鐨勫洜瀛愬強璇卞浣撶粏鑳為噸缂栫▼鐨勬柟娉曪紝鐢宠鍙凤細202311831064.1锛岀敵璇锋棩锛?2023.12.27锛岀敵璇凤紙涓撳埄鏉冿級浜猴細涓浗绉戝闄㈠箍宸炵敓鐗╁尰鑽笌鍋ュ悍鐮旂┒闄紱鍙戞槑浜猴細鍒樻櫠銆佽倴绔嬪睍銆侀粍瀛愯姮銆佺帇椴佸嫟銆佽寙鎱ц悕锛?3.鈥傗?傗?傗?? 涓?绉嶈瀵煎鑳藉共缁嗚優鐢卞鍙戞?佽繘鍏ュ熀鍙扮殑鏂规硶鍙婂煿鍏诲熀浣撶郴锛岀敵璇峰彿锛?202410353071.3锛岀敵璇锋棩锛?2024.03.26锛?鐢宠锛堜笓鍒╂潈锛変汉锛氫腑鍥界瀛﹂櫌骞垮窞鐢熺墿鍖昏嵂涓庡仴搴风爺绌堕櫌锛涘彂鏄庝汉锛?鍒樻櫠銆佺帇椴佸嫟銆侀偣楂橀槼銆佽倴绔嬪睍銆佽寙鎱ц悕锛?4.鈥傗?傗?傗?? 涓?绉嶅埗澶囧ぇ鐔婄尗璇卞鎬у鑳藉共缁嗚優鐨勫煿鍏诲熀浣撶郴鍙婃柟娉曪紝鐢宠鍙凤細202410353067.7锛岀敵璇锋棩锛?2024.03.26锛岀敵璇凤紙涓撳埄鏉冿級浜猴細涓浗绉戝闄㈠箍宸炵敓鐗╁尰鑽笌鍋ュ悍鐮旂┒闄紝鎴愰兘澶х唺鐚箒鑲茬爺绌跺熀鍦帮紱鍙戞槑浜猴細鍒樻櫠銆佸紶涓栬豹銆佸垬鐜夎壇銆侀偣楂橀槼銆佺帇椴佸嫟銆佸畨淇婅緣銆佹潕濯涳紱5.鈥傗?傗?傗?? 璇卞浣撶粏鑳為噸缂栫▼鐨勫洜瀛愪互鍙婁娇鐢ㄨ鍥犲瓙璇卞浣撶粏鑳為噸缂栫▼鐨勬柟娉曪紱涓撳埄鍙?: ZL 201910327535.2锛涚敵璇锋棩锛?2019.04.23锛涙巿鏉冨叕鍛婃棩锛?2023.11.24锛涚敵璇凤紙涓撳埄鏉冿級浜猴細涓浗绉戝闄㈠箍宸炵敓鐗╁尰鑽笌鍋ュ悍鐮旂┒闄紱鍙戞槑浜猴細瑁寸鍗匡紱鍒樻櫠锛涚帇娉紱鍚寸惓鐞筹紱6.鈥傗?傗?傗?? 璇卞浣撶粏鑳為噸缂栫▼鐨勫洜瀛愪互鍙婁娇鐢ㄨ鍥犲瓙璇卞浣撶粏鑳為噸缂栫▼鐨勬柟娉曪紱涓撳埄鍙凤細ZL 201910188173.3鐢宠鏃ワ細2019.03.13锛涙巿鏉冨叕鍛婃棩锛?2023.11.07锛涚敵璇凤紙涓撳埄鏉冿級浜猴細涓浗绉戝闄㈠箍宸炵敓鐗╁尰鑽笌鍋ュ悍鐮旂┒闄紱鍙戞槑浜猴細瑁寸鍗匡紱鍒樻櫠锛涚帇娉紱鍚寸惓鐞筹紱鍒橀洦濠凤紱7.鈥傗?傗?傗?? 涓?绉嶇敤浜庡寲瀛﹁瀵煎鑳芥?у共缁嗚優鐢熸垚鐨勫煿鍏讳綋绯讳互鍙婁娇鐢ㄨ鍩瑰吇浣撶郴鐨勫寲瀛﹂噸缂栫▼鏂规硶銆傜敵璇峰彿锛?201810170553.X锛涚敵璇锋棩锛?2018.03.01锛涚敵璇凤紙涓撳埄鏉冿級浜猴細涓浗绉戝闄㈠箍宸炵敓鐗╁尰鑽笌鍋ュ悍鐮旂┒闄?鈥傗?傗?傗?傗?傗?? 锛涘彂鏄庝汉锛氳４绔嵖锛涙浌灏氭稕锛?鍒樻櫠锛涗綑鑳滃媷锛涢檲鎹峰嚡锛涘彾鏅讹紱鏉庝笢浼燂紱8.鈥傗?傗?傗?? 涓?绉嶇敤浜庡埗澶囧唴鑳氬眰缁嗚優绯荤殑鍩瑰吇浣撶郴浠ュ強鍒跺鍐呰儦灞傜粏鑳炵郴鐨勬柟娉曪紱鐢宠鍙凤細201710814001.3锛涚敵璇锋棩锛?2017.09.11锛涚敵璇凤紙涓撳埄鏉冿級浜猴細涓浗绉戝闄㈠箍宸炵敓鐗╁尰鑽笌鍋ュ悍鐮旂┒闄紱鍙戞槑浜猴細瑁寸鍗匡紱鍒樻櫠锛涙浌灏氭稕锛涗綑鑳滃媷锛涢檲鎹峰嚡锛?9.鈥傗?傗?傗?? 涓?绉嶅埗澶囪瀵煎鑳芥?у共缁嗚優鐨勬柟娉曚互鍙婅鏂规硶涓墍浣跨敤鐨勭粍鍚堢墿鍙婂叾搴旂敤锛涗笓鍒╁彿锛?ZL 201310574447.5鐢宠鏃ワ細2013.11.15锛涙巿鏉冨叕鍛婃棩锛?2019.10.01锛涚敵璇凤紙涓撳埄鏉冿級浜猴細涓浗绉戝闄㈠箍宸炵敓鐗╁尰鑽笌鍋ュ悍鐮旂┒闄紱鍙戞槑浜猴細瑁寸鍗匡紱鍒樻櫠锛涢檲鎹峰嚡锛涘江姊呯锛?10.鈥? c-Jun鐨?N绔己澶辫瀵煎鑳芥?у共缁嗚優鐨勬柟娉曞拰搴旂敤锛涗笓鍒╁彿锛?ZL 201210324576.4锛涚敵璇锋棩锛?2012.09.04锛涙巿鏉冨叕鍛婃棩锛?2013.10.16锛涚敵璇凤紙涓撳埄鏉冿級浜猴細涓浗绉戝闄㈠箍宸炵敓鐗╁尰鑽笌鍋ュ悍鐮旂┒闄紱鍙戞槑浜猴細瑁寸鍗匡紱闊╁簡鍑紱鍒樻櫠锛涢檲鎹峰嚡锛涢煢澶囷紱褰绉?锛?11.鈥? c-Jun鐨勬埅鐭瀷缁存寔鑳氳儙骞茬粏鑳炲鑳芥?х殑鏂规硶鍜屽簲鐢紱涓撳埄鍙凤細ZL 201210324215.X锛涚敵璇锋棩锛?2012.09.04锛涙巿鏉冨叕鍛婃棩锛?2013.12.04 锛涚敵璇凤紙涓撳埄鏉冿級浜猴細涓浗绉戝闄㈠箍宸炵敓鐗╁尰鑽笌鍋ュ悍鐮旂┒闄紱鍙戞槑浜猴細瑁寸鍗匡紱鍒樻櫠锛涢煩搴嗗嚡锛涢檲鎹峰嚡锛涢煢澶囷紱褰绉?锛?12.鈥? 涓?绉嶅煿鍏诲熀娣诲姞鍓傚強鍏跺簲鐢紱涓撳埄鍙凤細ZL 201010167062.3锛涚敵璇锋棩锛?2010.04.30锛涙巿鏉冨叕鍛婃棩锛?2015.06.03锛涚敵璇凤紙涓撳埄鏉冿級浜猴細涓浗绉戝闄㈠箍宸炵敓鐗╁尰鑽笌鍋ュ悍鐮旂┒闄紱鍙戞槑浜猴細瑁寸鍗匡紱闄堟嵎鍑紱鍒樻櫠锛?13.鈥? 楠ㄥ舰鎴愯泲鐧藉湪璇卞璇卞寮忓鑳芥?у共缁嗚優杩囩▼涓殑搴旂敤锛涗笓鍒╁彿锛? ZL 201010510485.0锛涚敵璇锋棩锛?2010.10.18鈥傗?傗?傗?傗?? 锛涙巿鏉冨叕鍛婃棩锛?2014.05.14锛涚敵璇凤紙涓撳埄鏉冿級浜猴細涓浗绉戝闄㈠箍宸炵敓鐗╁尰鑽笌鍋ュ悍鐮旂┒闄紱鍙戞槑浜猴細瑁寸鍗匡紱闄堟嵎鍑?锛涘垬鏅讹紱14.鈥? 璇卞澶氳兘鎬у共缁嗚優蹇?熼珮鏁堜骇鐢熺殑鏂板瀷鏃犺娓呭煿鍏诲熀浠ュ強浣跨敤鍏剁殑鏂规硶锛涗笓鍒╁彿锛?ZL200910038883.4锛涚敵璇锋棩锛?2009.04.23鈥傗?傗?? 锛涙巿鏉冨叕鍛婃棩锛?2012.02.29锛涚敵璇凤紙涓撳埄鏉冿級浜猴細涓浗绉戝闄㈠箍宸炵敓鐗╁尰鑽笌鍋ュ悍鐮旂┒闄紱鍙戞槑浜猴細瑁寸鍗匡紱闄堟嵎鍑紱鍒樻櫠锛?
+                                    
+                                
+                            
+                        
+						
+					
+				
+			
+		
+	
+
+
+    
+	  
+		
+		  
+		  鐗堟潈鎵?鏈? &copy; document.write((new Date()).getFullYear()); 涓浗绉戝闄㈠箍宸炵敓鐗╁尰鑽笌鍋ュ悍鐮旂┒闄?绮CP澶?17053528鍙?绮ゅ叕缃戝畨澶?44011202002922鍦板潃锛氬箍宸炲競榛勫煍鍖哄紑婧愬ぇ閬?190鍙?閭紪锛?510530鐢佃瘽锛?86-020-32015300
+		  
+		  
+			  
+				
+			  	骞垮窞鍋ュ悍闄㈠井淇?
+				
+			  	骞垮窞鍋ュ悍闄㈢爺绌剁敓寰俊
+				
+			  
+		  
+		
+	  
+	
+
+
+	
+	
+		
+			
+				
+				
+				
+			
+		
+	
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+	$('.ui-select').ui_select();
+
+
+
+
+    $(function(){
+      $(".col-lg-6").each(function(){
+      if($(this).find(".jbinfo").text().trim()==""){
+      $(this).css("display","none");
+      }
+      });
+        
+      $(".detail-info").each(function(){
+      if($(this).find(".detail-t").text().trim()==""){
+      $(this).css("display","none");
+      }
+      });
+   });
+
+
+
+
