@@ -13,8 +13,8 @@ cta:
 
 design:
   background:
-    color: '#0e5a8a'
-    text_color_light: true
+    color: '#f5f7fb'
+    text_color_light: false
 ---
 
 我们聚焦生物医学前沿问题，欢迎访问与交流。

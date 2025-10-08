@@ -1,0 +1,14 @@
+{{/* Local override to avoid referencing site.GoogleAnalytics (which errors in our setup). */}}
+{{ $ga := .Site.Params.marketing.analytics.google_analytics | default "" }}
+{{ if and (hugo.IsProduction) $ga }}
+  {{ $gtag_config := cond .Site.Params.features.privacy_pack.enable "{ 'anonymize_ip': true }" "{}" }}
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{$ga}}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);} 
+    gtag('js', new Date());
+    gtag('config', '{{$ga}}', {{$gtag_config|safeJS}});
+    gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+  </script>
+{{ end }}
+

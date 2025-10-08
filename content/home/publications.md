@@ -1,4 +1,4 @@
----
+﻿---
 widget: publications
 headless: true
 active: true

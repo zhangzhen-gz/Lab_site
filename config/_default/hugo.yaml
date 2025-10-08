@@ -1,12 +1,25 @@
 baseURL: "/"
 title: 刘晶研究组
 enableGitInfo: true
-paginate: 10
+pagination:
+  pagerSize: 10
 
 # Use Wowchemy via Hugo Modules
 module:
+  vendor: true
   imports:
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
+
+security:
+  enableInlineShortcodes: false
+  exec:
+    allow: ['^(dart-)?sass(-embedded)?$', '^go$', '^git$', '^npx$', '^postcss$', '^tailwindcss$']
+    osEnv: ['(?i)^((HTTPS?|NO)_PROXY|PATH(EXT)?|APPDATA|TE?MP|TERM|GO\\w+|(XDG_CONFIG_)?HOME|USERPROFILE|SSH_AUTH_SOCK|DISPLAY|LANG|SYSTEMDRIVE|PROGRAMDATA)$']
+  funcs:
+    getenv: ['^HUGO_', '^WC_', '^CI$']
+  http:
+    methods: ['(?i)GET|POST']
+    urls: ['.*']
 
 markup:
   goldmark:

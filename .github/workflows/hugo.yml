@@ -24,6 +24,11 @@ jobs:
           submodules: false
           fetch-depth: 0
 
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.21.x'
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
@@ -59,6 +64,8 @@ jobs:
             ${{ runner.os }}-hugomod-
 
       - name: Build
+        env:
+          WC_POST_CSS: "0"
         run: hugo --minify --baseURL "${{ env.BASE_URL }}"
 
       - name: Upload artifact
